@@ -9,8 +9,8 @@ Beyond my professional scope, I am a research enthusiast driven by intellectual 
 - **Latest Exploration:** [LieFlow](https://github.com/Fcrtt/lieflow) - An unofficial JAX implementation of Flow Matching on Lie Groups.
 
 ### 📚 Papers to Code
-*Curated implementations of ML research for coding practice and intellectual curiosity.*
-👉 [View the full list here](https://github.com/Fcrtt/papers-to-code)
+> Curated implementations of ML research for coding practice and intellectual curiosity.
+👉 [**View the full list here**](https://github.com/Fcrtt/papers-to-code)
 ---
 
 ## 🛠 Tech Stack & Tools
