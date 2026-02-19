@@ -4,6 +4,7 @@ I am a **Machine Learning Engineer** dedicated to building robust and scalable s
 
 ## 🧪 Intellectual Curiosity & Research
 Beyond my professional scope, I am a research enthusiast driven by intellectual curiosity. I use my spare time to dive into deep learning theory, with a particular interest in **Flow Matching** related methods.
+
 - **Coding Practice:** I implement "code-less" research papers to sharpen my engineering skills.
 - **Latest Exploration:** [LieFlow](https://github.com/Fcrtt/lieflow) - An unofficial JAX implementation of Flow Matching on Lie Groups.
 
