@@ -1,9 +1,9 @@
 ## Hi there 👋
 ### 🚀 Professional Background
-I am a **Machine Learning Engineer** focused on building robust and scalable ML systems. My day-to-day work mainly involves Computer Vision.
+I am a **Machine Learning Engineer** dedicated to building robust and scalable systems. My professional work mainly revolves around Computer Vision, where I focus on object detection.
 
 ### 🧪 Intellectual Curiosity & Research
-Beyond my professional scope, I am a research enthusiast driven by intellectual curiosity. I use my spare time to dive into deep learning theory, with a particular interest in the **Flow Matching** related methods.
+Beyond my professional scope, I am a research enthusiast driven by intellectual curiosity. I use my spare time to dive into deep learning theory, with a particular interest in **Flow Matching** related methods.
 
 - **Coding Practice:** I implement "code-less" research papers to sharpen my engineering skills.
 - **Latest Exploration:** [LieFlow](https://github.com/Fcrtt/lieflow) - An unofficial JAX implementation of Flow Matching on Lie Groups.
